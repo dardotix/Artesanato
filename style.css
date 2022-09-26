@@ -46,14 +46,42 @@ body{
 
 }
 
-.conteudo{
+.conteudo {
     margin-bottom: 48px;
     border-top: 0.4px solid #fff2e7;
 
 }
 
-.conteudo-principal{
+.conteudo-principal {
 
     display:flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-around;
+}
+
+.conteudo-principal-escrito {
+
+    display:flex;
+    flex-direction: column;
+    gap: 32px;
+
+
+}
+
+.conteudo-principal-escrito-titulo {
+
+    font-family: `Righteous`, cursive;
+    font weight: 400px;
+    font-size: 64px;
+    color: #FFF2E7;
+
+
+}
+
+.conteudo-principal-escrito-subtitulo (
+
+font-family: `Sarala`, sans xerif;
+
+
+)
