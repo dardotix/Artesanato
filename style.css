@@ -81,7 +81,10 @@ body{
 
 .conteudo-principal-escrito-subtitulo (
 
-font-family: `Sarala`, sans xerif;
+    font-family: `Sarala`, sans xerif;
+    font-weight: 400px;
+    
+
 
 
 )
