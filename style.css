@@ -51,3 +51,9 @@ body{
     border-top: 0.4px solid #fff2e7;
 
 }
+
+.conteudo-principal{
+
+    display:flex;
+    flex-direction: row;
+    align-items: center;
