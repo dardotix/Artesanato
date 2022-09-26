@@ -28,3 +28,26 @@ body{
 
     height: 288px;
 }
+
+.cabecalho-menu{
+
+    display: flex;
+    gap: 32px;
+}
+
+.cabecalho-menu-item{
+
+    font-family: `Sarala`,sans-serif;
+    color : #fff2e7;
+    font-weight : 400;
+    font-size : 18px;
+
+
+
+}
+
+.conteudo{
+    margin-bottom: 48px;
+    border-top: 0.4px solid #fff2e7;
+
+}
