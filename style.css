@@ -21,15 +21,16 @@ body{
     justify-content: space-around;
     padding: 24px;
 
-
-}
-
 .cabecalho-imagem{
+    display: flex;
+    
+    
 
-    height: 300px;
 }
+    
 
-.cabecalho-menu{
+
+.cabecalho-menu
 
     display: flex;
     gap: 32px;
